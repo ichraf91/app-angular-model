@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ComputerGaming",
+      "price": 4300,
+      "quantity": 600,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 300,
+      "quantity": 100,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 1200,
+      "quantity": 100,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Télé",
+      "price": 4700,
+      "quantity": 700,
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "Tablette",
+      "price": "500",
+      "quantity": "26",
+      "selected": false,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
